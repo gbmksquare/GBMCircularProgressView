@@ -1,6 +1,5 @@
 # GBMCircularProgressView
 
-[![CI Status](http://img.shields.io/travis/gbmksquare/GBMCircularProgressView.svg?style=flat)](https://travis-ci.org/gbmksquare/GBMCircularProgressView)
 [![Version](https://img.shields.io/cocoapods/v/GBMCircularProgressView.svg?style=flat)](http://cocoapods.org/pods/GBMCircularProgressView)
 [![License](https://img.shields.io/cocoapods/l/GBMCircularProgressView.svg?style=flat)](http://cocoapods.org/pods/GBMCircularProgressView)
 [![Platform](https://img.shields.io/cocoapods/p/GBMCircularProgressView.svg?style=flat)](http://cocoapods.org/pods/GBMCircularProgressView)
@@ -9,7 +8,13 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+
+
 ## Requirements
+
+iOS 9.0 and above.
+
+
 
 ## Installation
 
@@ -20,9 +25,13 @@ it, simply add the following line to your Podfile:
 pod "GBMCircularProgressView"
 ```
 
+
+
 ## Author
 
-gbmksquare, ksquareatm@gmail.com
+BumMo Koo, ksquareatm@gmail.com
+
+
 
 ## License
 

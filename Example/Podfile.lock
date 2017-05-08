@@ -1,0 +1,16 @@
+PODS:
+  - GBMCircularProgressView (1.0)
+
+DEPENDENCIES:
+  - GBMCircularProgressView (from `../`)
+
+EXTERNAL SOURCES:
+  GBMCircularProgressView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GBMCircularProgressView: 9ad096389a327ba1a9bcbfa98019eed5ede4c58c
+
+PODFILE CHECKSUM: 5538e218260c9a533a490bc26153547abafa5228
+
+COCOAPODS: 1.2.1

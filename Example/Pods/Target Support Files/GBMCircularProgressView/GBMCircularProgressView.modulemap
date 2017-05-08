@@ -1,0 +1,6 @@
+framework module GBMCircularProgressView {
+  umbrella header "GBMCircularProgressView-umbrella.h"
+
+  export *
+  module * { export * }
+}
