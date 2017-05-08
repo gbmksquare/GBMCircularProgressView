@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GBMCircularProgressView_Example' do
+  pod 'GBMCircularProgressView', :path => '../'
+
+  target 'GBMCircularProgressView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
